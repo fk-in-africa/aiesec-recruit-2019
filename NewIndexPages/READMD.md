@@ -28,9 +28,7 @@ https://goo.gl/forms/A9E31kXl95i2Pe9k2
 (以前共有させてもらったこの配置でいこうと思っています)
 
 ## 追加するもの
-
 - 掲載者の写真が入ったフォルダになります
 https://drive.google.com/drive/u/0/folders/1ejvjJMs8YFna_m-mcyFH31ftof3uFJ4N
-
 - 記事まとめ
 https://docs.google.com/document/d/1NVzTCnYGDSzb2YKNZ1pq_4SbWxA7HUTlUhEjRmn6YGM/edit
