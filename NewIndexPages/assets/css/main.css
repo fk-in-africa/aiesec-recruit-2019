@@ -49,8 +49,23 @@ h1 {
 	z-index: 20;
 }
 .top-message {
-	background-color: #037ef3;
+	background-image: url(../img/top.png);
+	background-position: bottom ;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100%;
+	position: relative;
 }
+.top-message::before {
+	background-color: rgba(0,0,0,0.2);
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	content: ' ';
+}
+
 .top-message p {
 	font-family: "Yu Gothic", YuGo, YuGothic, "游ゴシック", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
 	color: #ffffff;
