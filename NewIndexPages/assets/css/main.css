@@ -49,7 +49,6 @@ h1 {
 	z-index: 20;
 }
 .top-message {
-	/* background-color: #037ef3; */
 	background-image: url(../img/top.png);
 	background-position: bottom ;
 	background-repeat: no-repeat;
@@ -58,9 +57,7 @@ h1 {
 	position: relative;
 }
 .top-message::before {
-	/* 透過した黒を重ねる */
 	background-color: rgba(0,0,0,0.3);
-	/* どの範囲に重ねるかを指定 */
 	position: absolute;
 	top: 0;
 	right: 0;
