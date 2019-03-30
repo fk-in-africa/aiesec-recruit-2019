@@ -17,7 +17,7 @@ https://goo.gl/forms/A9E31kXl95i2Pe9k2
 　　　
 ## 変更しなくていい場所
 未来を変える君たちへ、から
-- What's＠
+- What's＠次年度
 - OurMisssion
 - What We Do
 までの部分

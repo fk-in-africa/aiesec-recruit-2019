@@ -183,6 +183,23 @@ president
 voice
 ===========*/
 
+/*=========
+entry-btn
+===========*/
+.entry-section{
+	background-image: url(../img/top.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.entry-btn{
+	font-size: 18px;
+	padding: 11px 30px;
+	margin-bottom:  3em;
+	margin-top: 3em;
+}
+
 /*==========
 LC List
 ===========*/
