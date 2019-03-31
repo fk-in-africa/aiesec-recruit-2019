@@ -29,6 +29,10 @@ Bace
 .font-color-white p{
 	font-weight: bold;
 }
+
+.btn{
+	margin-top: 1em;
+}
 /*==========
 nav
 ===========*/
