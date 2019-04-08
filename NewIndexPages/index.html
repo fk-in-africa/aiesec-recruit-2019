@@ -393,7 +393,13 @@
                     </p>
                   </div>
                 </div>
-                <button type="button" class="btn btn-default" data-dismiss="modal">閉じる</button>
+                $('html').on('click', function () {
+  $('#modal_window').fadeOut();
+});
+
+$('#modal_inner').on('click', function(event) {
+  event.stopPropagation();
+});
               </div>
               <!-- interveiw-end -->
               <!-- interveiw-start -->
