@@ -265,4 +265,6 @@ Loaded
 	color: #ffffff;
 	text-align: center;
 }
-
+.d-block img-fluid {
+	position: center;
+}
