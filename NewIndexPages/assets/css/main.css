@@ -260,11 +260,9 @@ Loaded
 }
 .lastmessage-textarea {
 	font-family: YuGo;
-	
+	font-weight: 300;
+	font-size: 125%;
 	color: #ffffff;
 	text-align: center;
 }
-.lastmessage-textarea p {
-	font-weight: 300;
-	font-size: 30px;
-}
+
