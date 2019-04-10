@@ -105,13 +105,13 @@ h1 {
 .top-message h2, .top-message h3 {
 	font-family: YuGo;
 	color: #ffffff;
-	font-size: 4.5em;
+	font-size: 3em;
 	font-weight: 700;
 	transform: matrix(0.999, -0.035, 0.035, 0.999, 0, 0);
 }
 .top-message h3 {
 	position: relative;
-	left: 30%;
+	left: 40%;
 	width: 1.5em;
 }
 .message-textarea {
