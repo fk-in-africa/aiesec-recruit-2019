@@ -138,7 +138,7 @@ h1 {
 	font-family: YuGo;
 	color: #ffffff;
 	font-size: 3em;
-	font-weight: 550;
+	font-weight: 500;
 	transform: matrix(0.999, -0.035, 0.035, 0.999, 0, 0);
 }
 .top-message h3 {
